@@ -68,14 +68,14 @@ public class myRecordFile {
     public boolean read()
     {
         replay=new replayRecords();
-        System.out.println("1");
+        //System.out.println("1");
         try {
             number = in.readInt();
             //System.out.println(number);
         }catch(Exception e){
             return false;
         }
-        System.out.println("2");
+        //System.out.println("2");
         boolean flag=true;
         int n=1000;
         try{
@@ -97,7 +97,7 @@ public class myRecordFile {
                 flag=false;
             }
         }
-        System.out.println("3");
+        //System.out.println("3");
         try {
             int num = in.readInt();
             replay.setWin(Group.values()[num]);
