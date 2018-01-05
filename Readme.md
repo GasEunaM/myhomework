@@ -2,7 +2,7 @@
 ### 151220057  李亦彤
 #### 1.应用简介及成果展示
 
-![image](https://github.com/GasEunaM/myhomework/blob/master/Huluwa/ScreenShot/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-05%20%E4%B8%8B%E5%8D%883.29.39.png)
+![image](https://github.com/GasEunaM/myhomework/blob/master/ScreenShot/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-05%20%E4%B8%8B%E5%8D%883.29.39.png)
 
 开始界面按下空格键进入战斗界面
 界面像素800x600，拥有40x30个位置。
@@ -10,7 +10,7 @@
 葫芦娃+爷爷以长蛇阵站在左侧，蛇精蝎子精以鹤翼阵站在右侧，双方形成对质局面并开始向对方移动进行战斗。
 如图：蓝色、红色盒子为双方死亡成员。
 
-![image](https://github.com/GasEunaM/myhomework/blob/master/Huluwa/ScreenShot/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-05%20%E4%B8%8B%E5%8D%883.29.56.png)
+![image](https://github.com/GasEunaM/myhomework/blob/master/ScreenShot/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-05%20%E4%B8%8B%E5%8D%883.29.56.png)
 
 每个生物有自己的移动速度和能力等级。（速度值越大移动越慢，能力等级越高获胜概率越高）
 
@@ -30,9 +30,9 @@
 
 当战场上只剩下一方的成员时，战斗结束，显示结束界面并将战斗过程保存在"时间".dat中。
 
-![image](https://github.com/GasEunaM/myhomework/blob/master/Huluwa/ScreenShot/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-05%20%E4%B8%8B%E5%8D%883.28.19.png)
+![image](https://github.com/GasEunaM/myhomework/blob/master/ScreenShot/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-05%20%E4%B8%8B%E5%8D%883.28.19.png)
 
-![image](https://github.com/GasEunaM/myhomework/blob/master/Huluwa/ScreenShot/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-05%20%E4%B8%8B%E5%8D%883.31.24.png)
+![image](https://github.com/GasEunaM/myhomework/blob/master/ScreenShot/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-05%20%E4%B8%8B%E5%8D%883.31.24.png)
 
 开始及结束界面按L键可选择文件进行战斗回放。
 
@@ -64,7 +64,7 @@ battle：看自己上下左右是否有敌人，若有则向敌人发起进攻�
 
 battle结果如下图所示
 
-![image](https://github.com/GasEunaM/myhomework/blob/master/Huluwa/ScreenShot/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-05%20%E4%B8%8B%E5%8D%883.40.49.png)
+![image](https://github.com/GasEunaM/myhomework/blob/master/ScreenShot/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-05%20%E4%B8%8B%E5%8D%883.40.49.png)
 
 
 进攻者：LOULUO6
