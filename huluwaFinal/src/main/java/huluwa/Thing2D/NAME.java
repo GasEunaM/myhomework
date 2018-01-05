@@ -1,0 +1,5 @@
+package huluwa.Thing2D;
+
+public enum NAME {
+    DAWA, ERWA, SANWA, SIWA, WUWA, LIUWA, QIWA,YEYE,LOULUO,SHEJING,XIEZIJING
+}
